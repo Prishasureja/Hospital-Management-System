@@ -14,7 +14,7 @@
 <h2 style="color:cyan">Installation</h2>
 <ul>
     <li>Clone the Repo: <br> </li>
-    <li style=""> > git clone https://github.com/tauseedzaman/hospitalMS.git</li>
+    <li style=""> > git clone https://github.com/Prishasureja/Hospital-Management-System.git</li>
     <li> > cd hospitalMS</li>
     <li> > composer install</li>
     <li> > cp .env.example .env</li>
